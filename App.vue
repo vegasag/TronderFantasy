@@ -4,8 +4,8 @@
 
 <script>
 import { StackNavigator } from "vue-native-router";
-import MainScreen from "./Main";
 // import Header from './src/components/Header';
+import MainScreen from "./src/screens/Main";
 import ThomasScreen from "./src/screens/Thomas";
 
 const AppNavigation = StackNavigator(
