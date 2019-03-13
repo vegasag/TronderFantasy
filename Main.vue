@@ -19,7 +19,6 @@
 <script>
 import Header from './src/components/Header';
 
-
 export default {
   name: 'App',
   components: {Header},
@@ -48,9 +47,9 @@ export default {
         { name: "", poeng: '6'},
       ],
       teamIds: [
-        {name: "Thomas", teamId: "36506845"},
-        {name: "Stian", teamId: "36486894"},
-        {name: "Vegard", teamId: "36485584"},
+        {name: "Thomas", teamId: "2683986"},
+        {name: "Stian", teamId: "1640722"},
+        {name: "Vegard", teamId: "2957769"},
       ], 
     }
   },
